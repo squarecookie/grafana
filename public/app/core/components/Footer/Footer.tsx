@@ -1,6 +1,6 @@
 import React, { FC } from 'react';
 import { config } from '@grafana/runtime';
-import { Icon, IconName } from '@grafana/ui';
+// import { Icon, IconName } from '@grafana/ui';
 
 export interface FooterLink {
   text: string;
@@ -68,7 +68,7 @@ export function setVersionLinkFn(fn: typeof getFooterLinks) {
 }
 
 export const Footer: FC = React.memo(() => {
-  const links = getFooterLinks().concat(getVersionLinks());
+  // const links = getFooterLinks().concat(getVersionLinks());
 
   // return (
   //   <footer className="footer">

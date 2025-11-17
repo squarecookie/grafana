@@ -1,0 +1,40 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+{
+  "manifestVersion": "2.0.0",
+  "signatureType": "community",
+  "signedByOrg": "volkovlabs",
+  "signedByOrgName": "Volkov Labs",
+  "rootUrls": [],
+  "plugin": "volkovlabs-echarts-panel",
+  "version": "3.3.0",
+  "time": 1660315814202,
+  "keyId": "7e4d0c6a708866e7",
+  "files": {
+    "CHANGELOG.md": "6c2f0bd591cb600c6cb96f110b2b21bca3a2a362762b96a2323f6cdaff35c6a9",
+    "module.js.map": "ede25c7699dcb15423e72a1076137a5b8b1dd4e380486183879c1ebcded64571",
+    "LICENSE": "f15027856938c518b026e554a984b7aa314f1c5069e52e5676c132b55e930053",
+    "module.js": "977813e090ec56a6dd51f824d124e1e99be94d038e6a48495e8163005fae17b8",
+    "img/panel.png": "40fec7b8902f28b69a05e54079f42b175c936d85296a9cf1df045250e4ea7cfa",
+    "img/logo.svg": "c9b8d6f68dfc1ee5af382107007499a1fa0ac3b18c5191f4e693fb0eef44c17f",
+    "img/dashboard.png": "7830b758efe65766c10a9a99b6ec8e3e1051663c70faad1dc4722be13e4ae340",
+    "module.js.LICENSE.txt": "6bd51bfe9a4430ab7a9581e0c5941734c0a078f6b2707f32f6fbf5ac3a41e1ee",
+    "plugin.json": "034e79e5c1a64a4a9fd3778f2860d4f2b8a1d49c68cf217b1e252be172508c95",
+    "maps/world.json": "049b334579e5a42d5d16c72d014d380e048e39fc1504049f212acb589484d2fa",
+    "maps/USA.json": "625fee36be80a5422d21c5a5b922aed3ca028c27c9dc005ad73443bf37852834",
+    "README.md": "dbc4c8613294197d58be48d60b62a649db3dcc6981eaf0cdfdf9a21f4c8d03c0"
+  }
+}
+-----BEGIN PGP SIGNATURE-----
+Version: OpenPGP.js v4.10.10
+Comment: https://openpgpjs.org
+
+wrgEARMKAAYFAmL2aKYAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm58TRAgjJWrgfkYGJbbtom67UkVfgjW4pO0jjaPNYlcTXZCm5V6i4ViR8
+CMKRSXWjzCr0gKAAcSnMZpUn8sze0tKdbjkSdAIJAS1snj0+Yd+K01Mjoz8U
+F9LUvORxp5nPdlDyb83xlCKMULiOyXhgm65zpiCPZ3zD8t2kNc5JO7Q10Wr5
+/C7MALKr
+=7Vks
+-----END PGP SIGNATURE-----
