@@ -1,0 +1,44 @@
+{
+  "$schema": "https://raw.githubusercontent.com/grafana/grafana/master/docs/sources/developers/plugins/plugin.schema.json",
+  "dependencies": {
+    "grafanaDependency": ">=8.5.0",
+    "plugins": []
+  },
+  "id": "volkovlabs-echarts-panel",
+  "info": {
+    "author": {
+      "name": "Volkov Labs",
+      "url": "https://volkovlabs.io"
+    },
+    "description": "Apache ECharts panel",
+    "keywords": ["echarts"],
+    "links": [
+      {
+        "name": "Website",
+        "url": "https://github.com/VolkovLabs/volkovlabs-echarts-panel"
+      },
+      {
+        "name": "License",
+        "url": "https://github.com/VolkovLabs/volkovlabs-echarts-panel/blob/main/LICENSE"
+      }
+    ],
+    "logos": {
+      "large": "img/logo.svg",
+      "small": "img/logo.svg"
+    },
+    "screenshots": [
+      {
+        "name": "Dashboard",
+        "path": "img/dashboard.png"
+      },
+      {
+        "name": "Panel",
+        "path": "img/panel.png"
+      }
+    ],
+    "updated": "2022-08-12",
+    "version": "3.3.0"
+  },
+  "name": "Apache ECharts",
+  "type": "panel"
+}
